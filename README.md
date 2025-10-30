@@ -7,8 +7,8 @@ These projects simulate real-life problems while showcasing efficient data struc
 
 # Projects Included
 
- 🏥 1. Hospital Patient Queue Management System
-**Core Concepts:** Queue, Priority Queue (Heap)
+# 🏥 1. Hospital Patient Queue Management System
+ #**Core Concepts:** Queue, Priority Queue (Heap)
 
  Description:
 A simulation of how patients are treated in hospitals based on **urgency and arrival time**.  
